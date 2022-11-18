@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5383a51c.css",
-    "main.js": "/static/js/main.79609930.js",
+    "main.js": "/static/js/main.a1b4bba8.js",
     "static/js/787.88012170.chunk.js": "/static/js/787.88012170.chunk.js",
     "static/media/personalSite.jpg": "/static/media/personalSite.4a31f6414fc74592c225.jpg",
     "static/media/pu1.jpg": "/static/media/pu1.12f5518eef5018fc742c.jpg",
@@ -14,18 +14,18 @@
     "static/media/avatar.jpg": "/static/media/avatar.5d4124c5c0ea224f6348.jpg",
     "static/media/med.jpg": "/static/media/med.c3a35efc33611346778a.jpg",
     "static/media/maskFace.jpg": "/static/media/maskFace.02ee54720194b2ad0a02.jpg",
-    "static/media/linkedIN.svg": "/static/media/linkedIN.2b5e3ca610d98b2b9ae79ef3d244a59e.svg",
-    "static/media/instagram.svg": "/static/media/instagram.4ce525b8f71a1684770e2807ebe8d26d.svg",
-    "static/media/github.svg": "/static/media/github.870dc20139487114f3f1870cf370a43e.svg",
-    "static/media/facebook.svg": "/static/media/facebook.15c4a414bf920e5a7051ea92ae01719f.svg",
-    "static/media/reshot-icon-telegram-LSZVDUKX6M.svg": "/static/media/reshot-icon-telegram-LSZVDUKX6M.f8fe0f51f5f02e80581ca7ca910d9b08.svg",
+    "static/media/linkedIN.svg": "/static/media/linkedIN.de70ac2e3a8c6769da4e84609a92d72c.svg",
+    "static/media/instagram.svg": "/static/media/instagram.066454d3c03b47470babc5eb232e48b8.svg",
+    "static/media/github.svg": "/static/media/github.db106e2ccf9e8b46b03d7d542824859d.svg",
+    "static/media/facebook.svg": "/static/media/facebook.045f7cbb228805befe8377cc09a0cc7a.svg",
+    "static/media/reshot-icon-telegram-LSZVDUKX6M.svg": "/static/media/reshot-icon-telegram-LSZVDUKX6M.3aebc6a951f207db7461bc571b80c30e.svg",
     "index.html": "/index.html",
     "main.5383a51c.css.map": "/static/css/main.5383a51c.css.map",
-    "main.79609930.js.map": "/static/js/main.79609930.js.map",
+    "main.a1b4bba8.js.map": "/static/js/main.a1b4bba8.js.map",
     "787.88012170.chunk.js.map": "/static/js/787.88012170.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5383a51c.css",
-    "static/js/main.79609930.js"
+    "static/js/main.a1b4bba8.js"
   ]
 }
